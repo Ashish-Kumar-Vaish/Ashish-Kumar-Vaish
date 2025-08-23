@@ -73,7 +73,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ashish-Kumar-Vaish&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Kumar-Vaish&layout=compact&theme=radical" alt="Top Langs" width="48%" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashish-kumar-vaish" alt="ashish-kumar-vaish" /></a>
 </p>
 
 ---
