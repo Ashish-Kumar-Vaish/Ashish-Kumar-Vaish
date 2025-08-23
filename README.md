@@ -12,6 +12,7 @@
 - 🎓 Passionate about Full Stack Development, Machine Learning, and Problem Solving
 - ✍️ I enjoy building projects because it's the most fun way I know to learn, create, and explore
 - 💡 Always curious about how things work under the hood
+- 💼 [Portfolio Website](https://Ashish-Kumar-Vaish.github.io/Portfolio/)
 
 ---
 
